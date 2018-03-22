@@ -266,13 +266,13 @@ div#n2-ss-1 .n2-ss-item-iframe {
   height: 100%;
 }
 div#n2-ss-1 .n2-grab {
-  cursor: url(//localhost:8080/jd/media/nextend/n2-ss-1/../cursor/openhand.cur), move;
+  cursor: url(//localhost:8080/jd/IWeb/media/nextend/n2-ss-1/../cursor/openhand.cur), move;
   cursor: -webkit-grab;
   cursor: -moz-grab;
   cursor: grab;
 }
 div#n2-ss-1 .n2-grabbing {
-  cursor: url(//localhost:8080/jd/media/nextend/n2-ss-1/../cursor/closedhand.cur), move;
+  cursor: url(//localhost:8080/jd/IWeb/media/nextend/n2-ss-1/../cursor/closedhand.cur), move;
   cursor: -webkit-grabbing;
   cursor: -moz-grabbing;
   cursor: grabbing;
